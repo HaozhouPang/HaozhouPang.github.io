@@ -28,7 +28,7 @@ M.Sc. in Computing Science, **University of Alberta**, GPA: 3.9/4.0\\
 *2018.09 - 2020.11, Edmonton, Canada* 
 - Outstanding Thesis Award
 
-B.Sc in Computing Science, **University of Alberta**, GPA:  3.8/4.0\\
+B.Sc in Computing Science, **University of Alberta**, Graduated with First Class Honors\\
 *2014.09 - 2018.6, Edmonton, Canada* 
 - the winner of Dean's Silver Medal
 - University of Alberta Academic Excellence Scholarship
