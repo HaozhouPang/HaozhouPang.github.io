@@ -6,9 +6,6 @@ layout: home
 ---
 <!-- ## About Me -->
 
-Haozhou Pang did his undergrad and M.Sc in Alberta, Canada, both in Computing Science. He joined Bytedance in January 2021, where he is now a Machine Learning Engineer. Haozhou’s areas of interest span over Computer Vision, Computer Graphics, Theoretical CS, and competitive programming.
-
-
 <img style='float: right;' width='225' height='225' src='img.png'>
 Hey! This is Haozhou's playground. I now work at Bytedance as a machine learning engineer in Shenzhen, China. My areas of interest span over Computer Vision, Computer Graphics, Theoretical CS, and competitive programming.
 
