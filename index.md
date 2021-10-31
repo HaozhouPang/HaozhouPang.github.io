@@ -6,7 +6,7 @@ layout: home
 ---
 <!-- ## About Me -->
 
-<img style='float: right;' width='200' height='200' src='round_img.png'>
+<img style='float: right;' width='225' height='225' src='img.jpg'>
 Hey! This is Haozhou's playground. I now work at Bytedance as a machine learning engineer in Shenzhen, China. My areas of interest span over Computer Vision, Computer Graphics, Theoretical CS, and competitive programming.
 
 
@@ -26,9 +26,16 @@ Machine Learning Engineer, **Bytedance**\\
 
 M.Sc. in Computing Science, **University of Alberta**, GPA: 3.9/4.0\\
 *2018.09 - 2020.11, Edmonton, Canada* 
+- Outstanding Thesis Award
 
 B.Sc in Computing Science, **University of Alberta**, GPA:  3.8/4.0\\
-*2014.09 - 2018.11, Edmonton, Canada* 
+*2014.09 - 2018.6, Edmonton, Canada* 
+- the winner of Dean's Silver Medal
+- University of Alberta Academic Excellence Scholarship
+- Dean’s Honor Roll Student
+- A Faculty of Science Academic Excellence Scholarship
+- A University of Alberta China First Year Excellence Scholarship
+- An International Student Scholarship
 
 ## Publications
 
