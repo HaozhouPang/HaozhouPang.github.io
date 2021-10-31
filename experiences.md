@@ -6,19 +6,25 @@ permalink: /experiences/
 ## Teaching
 
 Teaching Assistant, CMPUT 204 Algorithms I, University of Alberta\\
-*2017.01 - 2017.04, 2017.09 - 2018.04*
+*2018 - 2020*
+- Lead CMPUT204 seminars (approx. 90 students) and create slides for the seminar.
+- Mark assignments and exams
+- Hold office hour
 
-Teaching Assistant, CMPUT 306 Intelligent Systems, University of Alberta\\
-*2016.09 - 2016.12*
+Research Assistant, University of Alberta\\
+*2018 - 2020*
+- Review and summarize literatures
+- Design and analyze algorithms (exact or approximate) for a variety of optimization problems. Improve the best-known result for Path Scheduling problem by a double-logarithmic factor by using techniques including Outline Scheme, Linear Programming, and Dynamic Programming. Appears in proceedings of ISAAC 2020.
+- Tighten the upper bound (as part of the research group) of the Capacitated Vehicle Routing problem
 
-## Contributed Talks
+## Volunteering
 
-Easy-to-Teach Language Emergence from Multi-Agent Communication Games\\
-*Emergent Communication Workshop at NeurIPS, Dec 2018, Montreal, Canada*
+Crew Member, TeamUpScience\\
+*2015.9 - 2016.8
+- Volunteer as a mentor to teach junior high school students with basic science.
 
-A Novel Boundary Based Multiobjective Particle Swarm Optimization\\
-*International Conference in Swarm Intelligence, Jun 2015, Beijing, China*
-
-## Others
-Attend [Deep Learning and Reinforcement Learning Summer School 2019](https://dlrlsummerschool.ca/)\\
-July 24 - Aug 2, 2019, Edmonton, Alberta, Canada
+Recruiting Representative, Department of Computing Science, University of Alberta\\
+*2015 - 2016
+- Open House is held in October every year at the University of Alberta. This event helps the university to introduce offered academic programs to the potential students
+- Answer questions from students and their parents as a representative of the department of Computing Science
+- Create a welcoming atmosphere for new students
