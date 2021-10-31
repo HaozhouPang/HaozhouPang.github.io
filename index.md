@@ -6,11 +6,11 @@ layout: home
 ---
 <!-- ## About Me -->
 
-<img style='float: right;' width='225' height='225' src='img.png'>
+<img style='float: right;' width='225' height='225' src='img.jpg'>
 Hey! This is Haozhou's playground. I now work at Bytedance as a machine learning engineer in Shenzhen, China. My areas of interest span over Computer Vision, Computer Graphics, Theoretical CS, and competitive programming.
 
 
-I did my undergrad and M.Sc in Alberta, Canada, both in Computing Science. During my Master program, I was fortunate enough to work with [Dr. Mohammad Salavatipour]http://webdocs.cs.ualberta.ca/~mreza/). 
+I did my undergrad and M.Sc in Alberta, Canada, both in Computing Science. During my Master program, I was fortunate enough to work with [Dr. Mohammad Salavatipour](http://webdocs.cs.ualberta.ca/~mreza/). 
 
 Feel free to shot me an message at haozhou PUT THE SIGN HERE ualberta DOT ca.
 
