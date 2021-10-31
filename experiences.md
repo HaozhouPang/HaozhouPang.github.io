@@ -20,11 +20,11 @@ Research Assistant, University of Alberta\\
 ## Volunteering
 
 Crew Member, TeamUpScience\\
-*2015.9 - 2016.8
+*2015.9 - 2016.8*
 - Volunteer as a mentor to teach junior high school students with basic science.
 
 Recruiting Representative, Department of Computing Science, University of Alberta\\
-*2015 - 2016
+*2015 - 2016*
 - Open House is held in October every year at the University of Alberta. This event helps the university to introduce offered academic programs to the potential students
 - Answer questions from students and their parents as a representative of the department of Computing Science
 - Create a welcoming atmosphere for new students
