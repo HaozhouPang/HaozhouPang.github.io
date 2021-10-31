@@ -6,43 +6,34 @@ layout: home
 ---
 <!-- ## About Me -->
 
-<img style='float: right;' width='225' height='225' src='circle.png'>
+Haozhou Pang did his undergrad and M.Sc in Alberta, Canada, both in Computing Science. He joined Bytedance in January 2021, where he is now a Machine Learning Engineer. Haozhou’s areas of interest span over Computer Vision, Computer Graphics, Theoretical CS, and competitive programming.
 
-I am Fushan Li. I now work at Amazon as a machine learning engineer in Vancouver, Canada. I am excited about applying reinforcement learning, deep learning and AI research to real-world applications.
 
-Before that, I earned my MSc degree in Computer Science at the University of Alberta. 
-During my Masters, I was fortunate enough to work with my advisors, [Prof. Michael Bowling](https://webdocs.cs.ualberta.ca/~bowling/index.html) and [Prof. Dale Schuurmans](https://webdocs.cs.ualberta.ca/~dale/). 
-I had a [paper](https://papers.nips.cc/paper/9714-ease-of-teaching-and-language-structure-from-emergent-communication) published at NeurIPS on multi-agent reinforcement learning.
+<img style='float: right;' width='225' height='225' src='img.png'>
+Hey! This is Haozhou's playground. I now work at Bytedance as a machine learning engineer in Shenzhen, China. My areas of interest span over Computer Vision, Computer Graphics, Theoretical CS, and competitive programming.
 
-You can reach me at fushanseu AT gmail dot com.
+
+I did my undergrad and M.Sc in Alberta, Canada, both in Computing Science. During my Master program, I was fortunate enough to work with [Dr. Mohammad Salavatipour]http://webdocs.cs.ualberta.ca/~mreza/). 
+
+Feel free to shot me an message at haozhou PUT THE SIGN HERE ualberta DOT ca.
 
 <br />
 
 ## Industry
 
-Machine Learning Engineer, **Amazon**\\
-*2020.03 - now, Vancouver, BC, Canada*
+Machine Learning Engineer, **Bytedance**\\
+*2021.01 - now, Shenzhen, China*
 
-Reseach Intern, Scalable Natural Language Processing, **IBM Research**\\
-*2018.06 - 2018.08, Almaden, CA, United States*
-
-Web Development Intern, **SAP Labs China**\\
-*2015.07 - 2016.01, Shanghai, China*
 
 ## Education
 
-M.Sc. in Computing Science, **University of Alberta**, GPA: 4.0/4.0\\
-*2016.09 - 2019.09, Edmonton, Canada* 
+M.Sc. in Computing Science, **University of Alberta**, GPA: 3.9/4.0\\
+*2018.09 - 2020.11, Edmonton, Canada* 
 
-B.Eng. in Computer Science and Technology, **Southeast University**, GPA: 87/100\\
-*2012.09 - 2016.06, Nanjing, China*
+B.Sc in Computing Science, **University of Alberta**, GPA:  3.8/4.0\\
+*2014.09 - 2018.11, Edmonton, Canada* 
 
 ## Publications
 
-F. Li and M. Bowling. **Ease-of-Teaching and Language Structure from Emergent Communication** [paper](https://papers.nips.cc/paper/9714-ease-of-teaching-and-language-structure-from-emergent-communication) [code](https://github.com/FushanLi/Ease-of-teaching-and-language-structure) [poster](https://drive.google.com/open?id=1CnSeTqhr2iJWKNLBt9OvLHKYsgbwLScG) [slides](https://drive.google.com/open?id=17c1iHeBHA90f1Kg41gF3Fk9keT1AQcaO) \\
-*Neural Information Processing Systems (NeurIPS), 2019*\\
-*A contributed talk on a short version at NeurIPS Workshop on Emergent Communication, 2018*
-
-F. Li, S. Xie and Q. Ni. **A Novel Boundary Based Multiobjective Particle Swarm Optimization** [paper](https://link.springer.com/chapter/10.1007/978-3-319-20466-6_17)\\
-*International Conference in Swarm Intelligence, 2015*
+TO BE ADDED
 
