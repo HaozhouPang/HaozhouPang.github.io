@@ -39,5 +39,5 @@ B.Sc in Computing Science, **University of Alberta**, GPA:  3.8/4.0\\
 
 ## Publications
 
-TO BE ADDED
+H. Pang and M. Salavatipour. **Approximation Algorithms for Generalized Path Scheduling** [paper](https://drops.dagstuhl.de/opus/volltexte/2020/13354/pdf/LIPIcs-ISAAC-2020-10.pdf) *ISAAC 2020*
 
