@@ -6,7 +6,7 @@ layout: home
 ---
 <!-- ## About Me -->
 
-<img style='float: right;' width='225' height='225' src='img.jpg'>
+<img style='float: right;' width='200' height='200' src='round_img.png'>
 Hey! This is Haozhou's playground. I now work at Bytedance as a machine learning engineer in Shenzhen, China. My areas of interest span over Computer Vision, Computer Graphics, Theoretical CS, and competitive programming.
 
 
