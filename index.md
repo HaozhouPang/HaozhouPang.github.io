@@ -7,6 +7,7 @@ layout: home
 <!-- ## About Me -->
 
 <img style='float: right;' width='225' height='225' src='img.jpg'>
+
 Hey! This is Haozhou's (昊洲) page. I now work at Bytedance as a machine learning engineer in Shenzhen, China. My areas of interest span over Computer Vision, Computer Graphics, Theoretical CS, and competitive programming.
 
 
