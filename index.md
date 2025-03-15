@@ -19,11 +19,16 @@ Best way to contact me: haozhoupang PUT THE SIGN HERE gmail DOT com.
 
 ## Fun Projects 
 
-Motion Capture from Video - "JiNiTaiMei"
+- Motion Capture from Video - "JiNiTaiMei". Extracting joints rotation and root translation from video then retargeting to a customized character. Algorithm runs in real-time. 
 <video width="320" height="240" controls>
     <source src="jntm.mp4" type="video/mp4">
 </video>
 
+- Audio-driven dance generation. We develep an global position aware large model to generate realistic and diverse group dances while maintaining strong music correlation and dancer-wise consistency. 
+<video width="320" height="240" controls>
+    <source src="dance_group.mp4" type="video/mp4">
+    <source src="dance_duo.mp4" type="video/mp4">
+</video>
 
 ## Education
 
